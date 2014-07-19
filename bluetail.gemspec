@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email = ["taro@threefunkymonkeys.com", "kandalf@threefunkymonkeys.com"]
   s.homepage = "https://github.com/threefunkymonkeys/bluetail"
   s.require_paths = ["lib"]
-  s.add_dependency "eventmachine", '~> 1.0'
+  s.add_dependency "simple_oauth", '~> 0.2'
 
   s.files = `git ls-files`.split("\n")
 end
