@@ -1,6 +1,6 @@
 ##Bluetail
 
-Named after a kind of blue bird, Bluetail is a small, easy to use library to make Twitter posts with your apps.
+Named after a kind of blue bird, [Bluetail](https://rubygems.org/gems/bluetail) is a small, easy to use Ruby library to make Twitter posts with your apps.
 
 ###Installation
 
