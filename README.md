@@ -1,14 +1,14 @@
-##Bluetail
+## Bluetail
 
 Named after a kind of blue bird, [Bluetail](https://rubygems.org/gems/bluetail) is a small, easy to use Ruby library to make Twitter posts with your apps.
 
-###Installation
+### Installation
 
 ```
 gem install bluetail
 ```
 
-###Pre-requisites
+### Pre-requisites
 
 You'll need to define an application with write permissions in your twitter account to be able to use Bluetail. So, go to http://dev.twitter.com, sign in, create your application and make sure it has write permissions.
 
@@ -25,7 +25,7 @@ From that page, you will need:
 
 Copy them and make sure you have them accessible within your application (a config file, env vars, whatever you find more useful)
 
-###Usage
+### Usage
 
 You need to instantiate an object with the OAuth settings you copied before, and then you can just tweet:
 
